@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Sup, I'm Rafael! 👋🏽
+# Hello, Rafael here! 👋🏽
 <br>
 <p>iOS Developer, passionate about technology since always, just regret not getting into it earlier but I am glad I still managed to get here. Here you find things that I did to help me fixate some concepts, frameworks, etc. These will either be in a simple file, when it is just a concept or a personal project when it involves more than just a concept.</p>
 
