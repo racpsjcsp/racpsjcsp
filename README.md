@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-<a href="https://github.com/racpsjcsp">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=racpsjcsp&show_icons=true&theme=dark&count_private=true">
-</a>
-<a href="https://github.com/racpsjcsp">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racpsjcsp&layout=compact&theme=dark&count_private=true">
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=racpsjcsp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racpsjcsp&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
+
 
 ## Experience
 
